@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>jp.que.ti.y_s_util</groupId>
-  <artifactId>ysu_io</artifactId>
+  <artifactId>ysu_any</artifactId>
   <versioning>
     <versions>
       <version>0.0.1-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20111013165150</lastUpdated>
+    <lastUpdated>20111013165148</lastUpdated>
   </versioning>
 </metadata>
