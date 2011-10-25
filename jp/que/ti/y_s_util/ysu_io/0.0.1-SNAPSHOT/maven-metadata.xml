@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>jp.que.ti.y_s_util</groupId>
+  <artifactId>ysu_io</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20111025.183359</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20111025183359</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.0.1-20111025.183359-1</value>
+        <updated>20111025183359</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.0.1-20111025.183359-1</value>
+        <updated>20111025183359</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
